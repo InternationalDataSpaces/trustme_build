@@ -1,3 +1,6 @@
+Deprecated! This repository will not be updated anymore. Find more information on the International Data Spaces [here](https://github.com/International-Data-Spaces-Association/).
+=============================================
+
 # Build and flash trust|me
 > **Note**: This code repository currently supports the Google Nexus 5 (hammerhead) device only!
 
